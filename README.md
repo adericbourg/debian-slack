@@ -10,7 +10,7 @@ archive and run that script.
 
 ## Usage
 
-### 1. Download the DEB package from the Slack download page.
+### 1. Download the DEB package from the Slack download page
 
 The package is available on that page: https://slack.com/downloads/linux
 
