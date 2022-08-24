@@ -3,7 +3,8 @@
 The DEB package provided by Slack on [their download page](https://slack.com/downloads/linux)
 is not compatible with Debian 11. 
 
-This script aims at letting you install that package safely.
+This script aims at letting you install that package safely by rebuilding the original package fixing the dependencies'
+discrepancies.
 
 This script does not aim at letting you update the package easily: for every update, you have to download the DEB
 archive and run that script.
