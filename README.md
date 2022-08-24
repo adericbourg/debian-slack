@@ -1,4 +1,4 @@
-# Slack installer for Debian 11
+# Slack installer for Debian 11 (Bullseye)
 
 The DEB package provided by Slack on [their download page](https://slack.com/downloads/linux)
 is not compatible with Debian 11. 
